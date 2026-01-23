@@ -1,4 +1,3 @@
-novice programmer learning anything CS & IT from software to hardware
+novice programmer learning anything CS & IT from software to hardware. right now, i'm having the most fun learning low-level & networking projects.
 
-i main c & c++ for its clarity and lack of abstraction (except for c++)
-- i am learning to become fluent in: java, python, and rust
+i main c & c++, but i am also training to become fluent in java, python, and rust.
